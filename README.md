@@ -1,5 +1,5 @@
-#Exploring Python Demo
-This project contains the script used during the 10/17/24 Santa Maria Coders meeting.
+# Exploring Python Demo
+This repository contains the script used during the 10/17/24 Santa Maria Coders meeting.
 
 ## dodemo.py
 dodemo reads the excel workbook, workbook.xlsx and writes out a powerpoint file
